@@ -15,20 +15,25 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a third year CS Student from Moscow
+I'm a third year CS student from Moscow
 
 - 🦫 I’m currently working with `Go`
 - 🦀 I’m currently learning `Rust`
 - 🐧 I'm constanlty interested in `Linux` (my [dotfiles](https://github.com/sorrtory/configs))
 - 📫 How to reach me: [Telegram](https://t.me/sorrtory)
-- ⚡ Fun fact: ~~I have a website~~ TBD 🫩
+- ⚡ Fun fact: "The more code lines you have removed, the more progress you have made"
 
-Check out the 
-- Tedious [repo](https://github.com/sorrtory/Study-BMSTU)
-- Hard [repo](https://github.com/go-park-mail-ru/2025_2_Suzuki_plus_one)
-- Clean [repo](https://github.com/sorrtory/Pet-mesto_goback)
-- Promising [repo](https://github.com/sorrtory/freebooru)
-- Recent [repo](https://github.com/sorrtory/VKEdu-Project)
+<!--Need a landing page link here-->>
+
+Check out some of my works:
+
+- Tedious [university projects](https://github.com/sorrtory/Study-BMSTU)
+- Advanced [streaming service backend](https://github.com/go-park-mail-ru/2025_2_Suzuki_plus_one)
+- Clean [API](https://github.com/sorrtory/Pet-mesto_goback)
+- Too ambitious [watchdog service](https://github.com/sorrtory/twitch_watchdog) (dev branch)
+- Promising [desktop application](https://github.com/sorrtory/freebooru) (TBD)
+- Recent [video calling platform](https://github.com/sorrtory/VKEdu-Project) (TBD)
+
 
 <details>
 <summary>Stats</summary>
