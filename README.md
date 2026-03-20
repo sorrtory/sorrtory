@@ -23,7 +23,7 @@ I'm a third year CS student from Moscow
 - 📫 How to reach me: [Telegram](https://t.me/sorrtory)
 - ⚡ Fun fact: "The more code lines you have removed, the more progress you have made"
 
-<!--Need a landing page link here-->>
+<!--Need a landing page link here-->
 
 Check out some of my works:
 
