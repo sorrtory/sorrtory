@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 
 I'm a third year CS Student from Moscow
 
-- 🦫 I’m currently working on `Go` projects
+- 🦫 I’m currently working with `Go`
 - 🦀 I’m currently learning `Rust`
 - 🐧 I'm constanlty interested in `Linux` (my [dotfiles](https://github.com/sorrtory/configs))
 - 📫 How to reach me: [Telegram](https://t.me/sorrtory)
-- ⚡ Fun fact: My personal website is in the **active** development for almost two years already 🫩
+- ⚡ Fun fact: ~~I have a website~~ TBD 🫩
 
 Check out the 
 - Tedious [repo](https://github.com/sorrtory/Study-BMSTU)
