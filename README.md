@@ -21,7 +21,7 @@ I'm a third year CS Student from Moscow
 - 🦀 I’m currently learning `Rust`
 - 🐧 I'm constanlty interested in `Linux` (my [dotfiles](https://github.com/sorrtory/configs))
 - 📫 How to reach me: [Telegram](https://t.me/sorrtory)
-- ⚡ Fun fact: My personal website is in the active development (almost two years already 🫩)
+- ⚡ Fun fact: My personal website is in the **active** development for almost two years already 🫩
 
 Check out the 
 - Tedious [repo](https://github.com/sorrtory/Study-BMSTU)
