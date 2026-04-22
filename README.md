@@ -27,12 +27,12 @@ I'm a third year CS student from Moscow
 
 Check out some of my works:
 
-- Tedious [university projects](https://github.com/sorrtory/Study-BMSTU)
-- Advanced [streaming service backend](https://github.com/go-park-mail-ru/2025_2_Suzuki_plus_one)
-- Clean [API](https://github.com/sorrtory/Pet-mesto_goback)
-- Too ambitious [watchdog service](https://github.com/sorrtory/twitch_watchdog) (dev branch)
-- Promising [desktop application](https://github.com/sorrtory/freebooru) (TBD)
-- Recent [video calling platform](https://github.com/sorrtory/VKEdu-Project) (TBD)
+- Tedious [university projects](https://github.com/sorrtory/Study-BMSTU) (2023-2025)
+- Advanced [streaming service backend](https://github.com/go-park-mail-ru/2025_2_Suzuki_plus_one) (2025)
+- Clean [API](https://github.com/sorrtory/Pet-mesto_goback) (2025)
+- Recent [video calling platform](https://github.com/sorrtory/VKEdu-Project) (WIP) (2026)
+- Too ambitious [watchdog service](https://github.com/sorrtory/twitch_watchdog) (POC) (2025)
+- Promising [VFS application](https://github.com/sorrtory/freebooru) (TBD) (2025-2026)
 
 
 <details>
